@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is a digital OTA that needs 50kHz clock and two inputs and it has three outputs
 
 ## How to test
 
-Explain how to use your project
+you connect two input signals of OTA and the output current is proportional to number of pulses in the output stages
 
 ## External hardware
 
